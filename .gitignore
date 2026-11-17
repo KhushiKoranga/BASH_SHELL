@@ -1,0 +1,6 @@
+build/
+myshell
+*.o
+*.out
+.myshell_history
+__pycache__/
